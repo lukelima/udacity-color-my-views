@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">ColorMyViews</string>
     <string name="box_one_text">Box one</string>
+    <string name="box_two_text">Box two</string>
+    <string name="box_three_text">Box three</string>
+    <string name="box_four_text">Box four</string>
+    <string name="box_five_text">Box five</string>
+    <string name="button_red">RED</string>
+    <string name="button_yellow">YELLOW</string>
+    <string name="button_green">GREEN</string>
 </resources>
